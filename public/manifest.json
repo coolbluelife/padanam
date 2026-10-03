@@ -1,0 +1,9 @@
+{
+  "name": "പഠനം – English by voice",
+  "short_name": "പഠനം",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EDF1EC",
+  "theme_color": "#1E5C46",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
